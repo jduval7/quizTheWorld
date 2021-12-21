@@ -8,7 +8,7 @@
 
 This was a full stack MERN application created within 9 days by a team of 5 to fullfill a need by our client.
 
-<link src='https://quiz-knows.herokuapp.com/'>Live Link</link>
+[Live Link](https://quiz-knows.herokuapp.com/)
 
 ---
 ---
