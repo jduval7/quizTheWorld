@@ -8,6 +8,8 @@
 
 This was a full stack MERN application created within 9 days by a team of 5 to fullfill a need by our client.
 
+<link src='https://quiz-knows.herokuapp.com/'>Live Link</link>
+
 ---
 ---
 
@@ -135,15 +137,15 @@ Once the user is registered, they will be signed in automatically.  Regardless o
 
  > * **[Ian Swensson](https://www.linkedin.com/)** Project Manager
 
- > * **[Andrew Bunys](https://www.linkedin.com/)** job title
+ > * **[Andrew Bunys](https://www.linkedin.com/)** UX/UI Front End
 
- > * **[John Duval](https://www.linkedin.com/)** job title
+ > * **[John Duval](https://www.linkedin.com/)** UX/UI Front End
 
  > * **[Jack Dowling](https://www.linkedin.com/in/jackmdowling/)** System Architect
 
  > * **[Wilson Wong](https://www.linkedin.com/)** System Architect
 
- > * **[Matt Olsen](https://www.linkedin.com/)** job title
+ > * **[Matt Olsen](https://www.linkedin.com/)** Back End
 ---
 
 ## Languages and Frameworks Used
