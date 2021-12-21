@@ -6,7 +6,7 @@
 
 ## Project Overview:
 
-In the ever-changing uncertainty of the modern world, what can give more comfort than the gift of knowledge? It was with this inspiration that our bold founder, Randy Randerson, set out to create a web-page that let people from all around the world share what they had learned in a fun, dynamic format. Quizknows aims to be an industry-leading social media platform in the fight against world hunger... for knowledge.
+This was a full stack MERN application created within 9 days by a team of 5 to fullfill a need by our client.
 
 ---
 ---
