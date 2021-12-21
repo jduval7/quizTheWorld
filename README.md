@@ -36,7 +36,7 @@ In the ever-changing uncertainty of the modern world, what can give more comfort
 
 **Homepage**:
 
-* Write some stuff here
+* Here is the homepage of QuizKnows! Create an Account, Login, and test your knowledge.  Some of our most populare quizzes will be on the homepage to play.  
 
 <img src="./client/dist/readme/homepage.png" width="90%">
 
@@ -86,7 +86,8 @@ Once the user is registered, they will be signed in automatically.  Regardless o
 
 **Quiz Creation**:
 
-* Write some stuff here
+* Here you can create your own quiz!  Follow along the modals and create a quiz with as many questions and answers as you like.  You can
+ choose true / false or multiple choice types of questions. 
 
 <img src="client/dist/readme/create.png" width="90%">
 
