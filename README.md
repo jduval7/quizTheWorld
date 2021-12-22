@@ -38,7 +38,7 @@ This was a full stack MERN application created within 9 days by a team of 5 to f
 
 **Homepage**:
 
-* Here is the homepage of QuizKnows! Create an Account, Login, and test your knowledge.  Some of our most populare quizzes will be on the homepage to play.  
+* Here is the homepage of QuizKnows! Create an Account, Login, and test your knowledge.  Some of our most popular quizzes will be on the homepage to play.  
 
 <img src="./client/dist/readme/homepage.png" width="90%">
 
