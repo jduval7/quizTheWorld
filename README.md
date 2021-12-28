@@ -6,7 +6,7 @@
 
 ## Project Overview:
 
-This was a full stack MERN application created within 9 days by a team of 5 to fullfill a need by our client.
+This was a full stack MERN application built for creating and playing quizzes.
 
 [Live Link](https://quiz-knows.herokuapp.com/)
 
