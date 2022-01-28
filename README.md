@@ -8,7 +8,6 @@
 
 This was a full stack (Postgres, Express, React, Node) application built for creating and playing quizzes.
 
-[Live Link](https://quiz-knows.herokuapp.com/)
 
 ---
 ---
